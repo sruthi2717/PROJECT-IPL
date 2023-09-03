@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "sruthi.repository",
+			"path": "../../../../Users/srurh/.vscode/sruthi.repository"
+		},
+		{
+			"name": "vCard-personal-portfolio",
+			"path": "../../../../Users/srurh/vCard-personal-portfolio.gi/vCard-personal-portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sruthi.repository"
+	}
+}
